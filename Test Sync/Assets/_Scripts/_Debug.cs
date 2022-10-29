@@ -7,7 +7,12 @@ public class _Debug : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.LogWarning("<color=red> hello ! </color> :) ") ;
+        Debug.LogWarning("<color=red> We are familly  ! </color> :) ") ;
+        Debug.LogWarning("<color=red> We are familly  ! </color> :) ") ;
+        Debug.LogWarning("<color=red> We are familly  ! </color> :) ") ;
+        Debug.LogWarning("<color=red> We are familly  ! </color> :) ") ;
+        Debug.LogWarning("<color=red> We are familly  ! </color> :) ") ;
+        Debug.LogWarning("<color=red> We are familly  ! </color> :) ") ;
     }
 
  
